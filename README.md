@@ -1,12 +1,7 @@
-<p align="center">
-  <img src="![Uploading ChatGPT Image 29 يوليو 2026، 10_56_43 م.png…]()
-" width="100%" />
-</p>
 <h1 align="center">Hi 👋, I'm Ariam Al-Shafi'i</h1>
 
 <h3 align="center">
-Front-End Developer | Programming Technology Graduate
-</h3>
+Front-End Developer • Programming Technology Graduate</h3>
 
 <p align="center">
 Passionate about building modern, responsive, and user-friendly web experiences.
@@ -24,6 +19,8 @@ I enjoy transforming ideas into modern, responsive, and accessible web experienc
 
 ## 🛠️ Tech Stack
 
+### Languages
+
 <p align="left">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -34,19 +31,25 @@ I enjoy transforming ideas into modern, responsive, and accessible web experienc
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+### Frameworks & Technologies
+
+<p align="left">
+
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
