@@ -80,7 +80,7 @@ I enjoy transforming ideas into modern, responsive, and accessible web experienc
 **ariamalsafei@gmail.com**
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/ariam-al-shafii
+https://sa.linkedin.com/in/ariam-alshafii
 
 🌐 **Portfolio:**  
 https://ariam.lovable.app
