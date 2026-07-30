@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="![Uploading ChatGPT Image 29 يوليو 2026، 10_56_43 م.png…]()
+" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Ariam Al-Shafi'i</h1>
 
-<h3 align="center">Front-End Developer | Programming Technology Graduate</h3>
+<h3 align="center">
+Front-End Developer | Programming Technology Graduate
+</h3>
 
 <p align="center">
 Passionate about building modern, responsive, and user-friendly web experiences.
@@ -10,30 +16,48 @@ Passionate about building modern, responsive, and user-friendly web experiences.
 
 ## 👩‍💻 About Me
 
-- 💻 Front-End Developer passionate about creating clean and responsive web interfaces.
-- 🎓 Programming Technology Graduate.
-- 🚀 Experienced in developing real-world web platforms and AI-integrated solutions.
-- 🌱 Currently improving my Front-End Development skills and expanding my knowledge of modern web technologies.
-- 📍 Jeddah, Saudi Arabia.
+I'm a Front-End Developer based in Jeddah, Saudi Arabia, with a Diploma in Programming Technology.
+
+I enjoy transforming ideas into modern, responsive, and accessible web experiences through clean code and thoughtful design. I’m passionate about continuous learning and building projects that solve real-world problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- SQL
+<p align="left">
 
-### Frameworks & Technologies
-- Flutter (Web)
-- Node.js
-- Google Gemini API
-- JSON
-- Git
-- GitHub
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+## 🌱 Currently
+
+- Improving my Front-End Development skills
+- Building modern web platforms
+- Learning new technologies
+- Creating real-world projects
 
 ---
 
@@ -43,20 +67,17 @@ Passionate about building modern, responsive, and user-friendly web experiences.
 - Responsive Web Design
 - Artificial Intelligence Integration
 - UI Design
-- Problem Solving
+- Web Accessibility
 
 ---
 
 ## 📫 Connect with Me
 
-📧 **Email**
+📧 **Email:**  
+**ariamalsafei@gmail.com**
 
-ariamalsafei@gmail.com
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/ariam-al-shafii
 
-💼 **LinkedIn**
-
-www.linkedin.com/in/ariam-al-shafi’i-969b19416
-
-🌐 **Portfolio**
-
+🌐 **Portfolio:**  
 https://ariam.lovable.app
