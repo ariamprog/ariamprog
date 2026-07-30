@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ariam Al-Shafi'i</h1>
 
 <h3 align="center">
-Front-End Developer • Programming Technology Graduate</h3>
+Front-End Developer • Web Programming and Development Graduate </h3>
 
 <p align="center">
 Passionate about building modern, responsive, and user-friendly web experiences.
@@ -11,7 +11,7 @@ Passionate about building modern, responsive, and user-friendly web experiences.
 
 ## 👩‍💻 About Me
 
-I'm a Front-End Developer based in Jeddah, Saudi Arabia, with a Diploma in Programming Technology.
+I'm a Front-End Developer based in Jeddah, Saudi Arabia, with a diploma in Web Programming and Development.
 
 I enjoy transforming ideas into modern, responsive, and accessible web experiences through clean code and thoughtful design. I’m passionate about continuous learning and building projects that solve real-world problems.
 
